@@ -168,15 +168,15 @@ Here are the modules we'll work through for this workshop, though we probably wo
     1. [The BUGS language](bugs_language_slides.html)
     2. [Building a model in NIMBLE](build_model_slides.html)
     3. [Running an MCMC](run_mcmc_slides.html)
-    4. [Specifying data](data_nodes_slides.html)
  - Advanced MCMC
     1. [Customizing an MCMC](customizing_mcmc_slides.html)
     2. [An extended example](litters_example_slides.html)
  - Programming in NIMBLE
     1. [Operating a NIMBLE model](operating_model_slides.html)
-    2. [Inspecting model structure](model_structure_slides.html)
-    3. [Alternative parameterizations](alt_param_slides.html)
-    4. [Writing an algorithm using nimbleFunctions](nimbleFunctions_slides.html)
+    2. [Specifying data](data_nodes_slides.html)
+    3. [Inspecting model structure](model_structure_slides.html)
+    4. [Alternative parameterizations](alt_param_slides.html)
+    5. [Writing an algorithm using nimbleFunctions](nimbleFunctions_slides.html)
  - Using nimbleFunctions in practice
     1. [Writing your own MCMC sampler](user_sampler_slides.html)
     2. [User-defined distributions](user_dist_slides.html)
